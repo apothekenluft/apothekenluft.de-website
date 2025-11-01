@@ -12,3 +12,8 @@ export default defineConfig({
     plugins: [tailwindcss()]
   }
 });
+
+export default defineConfig({
+  site: 'https://apothekenluft.github.io',
+  base: '/apothekenluft.de-website',
+})
