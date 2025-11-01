@@ -14,6 +14,6 @@ export default defineConfig({
 });
 
 export default defineConfig({
-  site: 'https://apothekenluft.github.io',
-  base: '/apothekenluft.de-website/',
+  site: 'https://www.apothekenluft.de',
+  base: '/',
 })
