@@ -14,7 +14,9 @@ export const locations = [
     // Location: 49.4676174, 8.5992084
     lat: 49.4676174,
     lon: 8.5992084,
-    zoom: 15
+    zoom: 15,
+    appstore: 'https://apps.apple.com/us/app/post-apotheke-neckarhausen/id6475203802',
+    playstore: 'https://play.google.com/store/apps/details?id=com.apo2u.apoinhv.app'
   },
   {
     logo: '/images/logo-schlossapo.webp',
@@ -31,6 +33,8 @@ export const locations = [
     // Location: 49.4713074, 8.5668522
     lat: 49.4713074,
     lon: 8.5668522,
-    zoom: 15    
+    zoom: 15,
+    appstore: 'https://apps.apple.com/us/app/schloss-apotheke-ilvesheim/id6752677120',
+    playstore: 'https://apps.apple.com/us/app/schloss-apotheke-ilvesheim/id6752677120'    
   }
 ];

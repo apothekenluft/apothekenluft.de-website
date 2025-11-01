@@ -10,10 +10,8 @@ export default defineConfig({
       include: ['leaflet'],
     },
     plugins: [tailwindcss()]
-  }
-});
-
-export default defineConfig({
+  },
   site: 'https://www.apothekenluft.de',
   base: '/',
-})
+});
+
