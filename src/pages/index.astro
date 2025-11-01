@@ -1,0 +1,84 @@
+---
+import Layout from '../layouts/BaseLayout.astro';
+import LocationMap from '../components/Karte.astro';
+import HideEmail from '../components/HideEmail.astro';
+import { locations } from '../data/locations';
+---
+<Layout title="Startseite">
+  <section class="py-24 text-center rounded-b-xl mb-12 shadow-inner">
+    <div class="container mx-auto px-4">
+      <h1 class="text-4xl lg:text-4xl font-extrabold mb-4 leading-tight">Willkommen bei Ihren Apotheken in Edingen-Neckarhausen und Ilvesheim</h1>
+      <p class="text-xl lg:text-1xl font-light max-w-3xl mx-auto">
+        Ihre Gesundheit ist unsere Mission. Wir stehen Ihnen mit kompetenter Beratung und einem breiten Serviceangebot zur Seite.
+      </p>
+    </div>
+  </section>
+
+  <section class="container mx-auto px-4">
+    <h2 class="text-3xl font-bold text-gray-800 text-center mb-12">Unsere Standorte</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      <!-- Beginn der Schleife um Standorte auszulesen und auszugeben -->
+      {locations.map(location => (
+        <article class="bg-white p-8 rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300">
+          <div class="flex flex-col items-center">
+
+            {/* Standortlogo */}
+            <div class="w-48 h-24 mb-6 justify-center rounded-lg relative shadow">
+              <img 
+                src={location.logo} 
+                alt={`Logo ${location.name}`} 
+                class="absolute top-4 left-4 h-16 w-auto" 
+              />
+            </div>
+
+            {/* Standortname */}
+            <h3 class="text-2xl font-semibold text-primary-blue mb-4 text-center"><a href={location.web} rel="noopener noreferrer" class="text-primary-blue hover:underline">{location.name}</a></h3>
+            
+            {/* Standortbild */}
+            <div class="mb-6 orounded-lg relative shadow">
+              <img 
+                src={location.bild} 
+                alt={`Außenansicht ${location.name}`} 
+                class="w-full h-full object-contain" 
+              />
+            </div>
+
+            {/* Standortadresse */}
+            <address class="not-italic text-gray-700 space-y-2 text-center w-full mb-6">
+              <p>{location.adresse}</p>
+
+              {/* Telefonnummer verlinken, damit man sie anrufen kann */}
+              <p><strong>Tel:</strong>
+                <a href={`tel:${location.telLink}`} class="text-primary-blue hover:underline">
+                  {location.tel}
+                </a>
+              </p>
+
+              <p><strong>Fax:</strong> {location.fax}</p>
+
+              {/* E-Mail-Adresse über JavaScript verschleiern */}
+              <p>
+                <strong>E-Mail:</strong>
+                <a class="text-primary-blue hover:underline" data-user={location.mailUser} data-domain={location.mailDomain}></a>
+              </p>
+              <p><strong>Web:</strong> <a href={location.web} rel="noopener noreferrer" class="text-primary-blue hover:underline">{location.web}</a></p>
+            </address>
+
+            {/* Standortkarte über leaflet anzeigen */}
+            <div class="w-full">
+              <LocationMap 
+                lat={location.lat} 
+                lon={location.lon} 
+                zoom={location.zoom} 
+                name={location.name}
+              />
+            </div>
+
+          </div>
+        </article>
+      ))}
+    </div>
+  </section>
+</Layout>
+
+<HideEmail />

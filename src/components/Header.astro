@@ -1,0 +1,29 @@
+---
+import { headerMenu } from '../data/menu';
+const isExternal = (path: string) => path.startsWith('http://') || path.startsWith('https://');
+---
+<header class="bg-primary-blue shadow-lg">
+  <div class="container mx-auto p-4 flex justify-between items-center">
+    <a href="/" class="flex items-center space-x-2">
+      <img src="/images/logo-apothekenluft.webp" alt="apothekenluft.de-Logo" class="h-10 w-auto" />
+      <span class="text-1xl font-bold">Persönlich - Nah - Direkt</span>
+    </a>
+    
+    <nav>
+      <ul class="flex space-x-6 items-center">
+        {headerMenu.map(item => (
+          <li>
+            <a 
+              href={item.path} 
+              class="hover:text-gray-300 transition-colors duration-200"
+              target={isExternal(item.path) ? '_blank' : ''}
+              rel={isExternal(item.path) ? 'noopener noreferrer' : ''}
+            >
+              {item.name}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </div>
+</header>

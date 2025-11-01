@@ -1,0 +1,24 @@
+---
+import {
+    Leaflet,
+    Marker,
+    Popup,
+ } from "astro-leaflet";
+
+interface Props {
+  lat: number;
+  lon: number;
+  zoom: number;
+  name: string;
+}
+
+const { lat, lon, zoom, name } = Astro.props;
+---
+
+<Leaflet 
+    options={{ center: [lat, lon], zoom: zoom }}
+>
+    <Marker latlng={[lat, lon]}>
+        <Popup content={name} open/>
+    </Marker>
+</Leaflet>

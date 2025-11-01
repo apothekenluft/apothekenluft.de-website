@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/*
+@tailwind base;
+@layer base {
+    h1 {
+        @apply text-6xl lg:text-6xl font-extrabold mb-4 leading-tight
+    }
+
+    h2 {
+        @apply text-4xl font-bold text-gray-800 text-center mb-12"
+    }
+}
+*/
