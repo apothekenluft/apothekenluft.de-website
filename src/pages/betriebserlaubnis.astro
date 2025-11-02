@@ -2,26 +2,36 @@
 import Layout from '../layouts/BaseLayout.astro';
 ---
 <Layout title="Betriebserlaubnis und Btm-Nummernzuweisung">
-    <section>
-        <h2 class="text-4xl font-extrabold text-primary-blue mb-4">Betriebserlaubnis</h2>
-        <p>Die Betriebserlaubnis für unsere Apotheken finden Sie <a href="/files/Betriebserlaubnis.pdf">hier</a>.</p>
+    <section class="container mx-auto px-4">
+        <h1 class="text-4xl font-extrabold text-primary-blue mb-4">Betriebserlaubnis, Btm-Nummer und Handelsregister</h1>
+        <h2 class="text-3xl font-extrabold text-primary-blue mb-4">Betriebserlaubnis</h2>
+        <p class="mb-2">
+            Die Betriebserlaubnis für unsere Apotheken finden Sie <a href="/files/Betriebserlaubnis.pdf" 
+            class="text-primary-blue hover:underline">hier</a>.
+        </p>
     </section>
 
-    <section>
-        <h2 class="text-4xl font-extrabold text-primary-blue mb-4">Btm-Nummernzuweisung</h2>
+    <section class="container mx-auto px-4">
+        <h2 class="text-3xl font-extrabold text-primary-blue mb-4">Btm-Nummernzuweisung</h2>
         <p>Die Dokumente bezüglich unserer BGA-Nummer (Btm-Nummernzuweisung) erhalten Sie durch Klick auf die folgenden Links:</p>
-        <ul>
-            <li><a href="/files/0004156.pdf">Post-Apotheke Neckarhausen</a></li>
-            <li><a href="/files/0058666.pdf">Schloss-Apotheke Ilvesheim</a></li>
+        <ul class="mb-4"></ul>
+            <li class="list-disc mx-4"><a href="/files/0004156.pdf" class="text-primary-blue hover:underline">Post-Apotheke Neckarhausen</a></li>
+            <li class="list-disc mx-4"><a href="/files/0058666.pdf" class="text-primary-blue hover:underline">Schloss-Apotheke Ilvesheim</a></li>
         </ul>
     </section>
 
-    <section>
-        <h2 class="text-4xl font-extrabold text-primary-blue mb-4">Handelsregisterauszüge</h2>
-        <p>Den aktuellen Handelsregisterauszug können Sie beim Registerportal der Länder abrufen. Aus Servicegründen ist unser Auszug hier aufgelistet:</p>
-        <ul>
-            <li><a href="/files/HRA333378.pdf">HRA 333378 Schloss-Apotheke Ilvesheim e.K.</a></li>
-            <li><a href="/files/HRA331660.pdf">HRA 331660 Post-Apotheke Neckarhausen e.K.</a></li>
+    <section class="container mx-auto px-4">
+        <h2 class="text-3xl font-extrabold text-primary-blue mb-4">Handelsregisterauszüge</h2>
+        <p class="mb-1">Den aktuellen Handelsregisterauszug können Sie beim Registerportal der Länder abrufen. 
+            Aus Servicegründen ist unser Auszug hier aufgelistet:
+        </p>
+        <ul class="mb-4"></ul>
+            <li class="list-disc mx-4"><a href="/files/HRA333378.pdf" class="text-primary-blue hover:underline">
+                HRA 333378 Schloss-Apotheke Ilvesheim e.K.</a>
+            </li>
+            <li class="list-disc mx-4"><a href="/files/HRA331660.pdf" class="text-primary-blue hover:underline">
+                HRA 331660 Post-Apotheke Neckarhausen e.K.</a>
+            </li>
         </ul>
     </section>
 </Layout>
