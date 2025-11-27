@@ -1,0 +1,9 @@
+---
+import Layout from '../layouts/BaseLayout.astro';
+const allPosts = Object.values(import.meta.glob('./posts/*.md', { eager: true }));
+---
+<Layout title="Startseite">
+    <h1>Blog apothekenluft.de</h1>
+    <p>Hier finden Sie Beiträge rund um die Apothekenwelt, die ich geschrieben habe.</p>
+    {allPosts.map((post: any) => <li><a href={post.url}>{post.frontmatter.title}</a></li>)}
+</Layout>
