@@ -6,7 +6,7 @@ categories:
 tags: 
   - "arzneimittelknappheit"
   - "lieferengpaesse"
-coverImage: "02-flohmarkt.webp"
+coverImage: "/images/blog/02-flohmarkt.webp"
 ---
 
 Kurz vor Weihnachten hat der Präsident der deutschen Ärztekammer eine tolle Idee wie man den Engpässen bei Fiebersäften und -zäpfchen für Kinder Herr werden könnte: er ruft die Menschen auf [Flohmärkte für diese Arzneimittel](https://www.pharmazeutische-zeitung.de/baek-praesident-fordert-flohmaerkte-fuer-arzneimittel-137404/) einzurichten. Ich kann vor solchen Ideen nur abraten.

@@ -7,7 +7,7 @@ categories:
 tags: 
   - "apothekenalltag"
   - "notdienst"
-coverImage: "easter-egg-3257201_1920.webp"
+coverImage: "/images/blog/easter-egg-3257201_1920.webp"
 ---
 
 Am Ostersonntag hatte ich meinen ersten Sonn- bzw. Feiertagsdienst in 2023. Und weil viele Menschen ja glauben, dass man als Apotheker ja "eh da" ist, nicht zu tun hat und sich über jeden Kunden freut, habe ich mir die Mühe gemacht und jeden Kunden -auch die, die nur angerufen haben- mit einer kleinen Notiz erfasst. Daraus ist eine Chronik entstanden, die vielleicht nicht die wahren Notdienstgeschichten zeigt. Immerhin ist Ostersonntag schon ein wenig speziell, da vorher schon ein Feiertag war, Ferien sind, auch Ärzte mal Urlaub brauchen etc. Aber vielleicht gibt diese Chronik dem einen oder anderen Kunden, Politiker oder einfach nur Interessierten einen Einblick was in einem ganz normalen Apothekennotdienst so vorkommt.

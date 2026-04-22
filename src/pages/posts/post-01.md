@@ -8,7 +8,7 @@ tags:
   - "arzneimittelpreise"
   - "herstellerabschlag"
   - "rabattvertraege"
-coverImage: "01-taschenrechner.webp"
+coverImage: "/images/blog/01-taschenrechner.webp"
 ---
 
 Die Preise für verschreibungspflichtige Arzneimittel in Deutschland werden staatlich festgelegt. Festgeschrieben ist das Ganze in der Arzneimittelpreisverordnung (AmPVO). Und im Prinzip berechnet sich der Preis eines Arzneimittels recht einfach:

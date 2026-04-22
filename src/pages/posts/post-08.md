@@ -8,7 +8,7 @@ tags:
   - "apotheke"
   - "apothekenalltag"
   - "rabattvertraege"
-coverImage: "723245BF-858A-4F59-8E98-3C2833D71259.jpeg"
+coverImage: "/images/blog/723245BF-858A-4F59-8E98-3C2833D71259.jpeg"
 ---
 
 Wie schon in einigen [Beiträgen](https://apotheker-luft.de/preisberechnung-fuer-verschreibungspflichtige-arzneimittel/) angesprochen, möchte ich heute über die sogenannten "Rabattverträge", die von den Krankenkassen mit verschiedenenen Herstellern von Arzneimitteln abgeschlossen werden können, schreiben.
@@ -25,7 +25,7 @@ Nehmen wir an, der Arzt stellt ein Rezept über das Antibiotikum Penicillin mit 
 
 <figure>
 
-![](images/image-1024x512.png)
+![](/images/image-1024x512.png)
 
 <figcaption>
 
@@ -39,7 +39,7 @@ Dazu muss man wissen, dass jeder Teilnehmer im Gesundheitssystem ein "Institutio
 
 <figure>
 
-![](images/image-1-1024x725.png)
+![](/images/image-1-1024x725.png)
 
 <figcaption>
 
@@ -53,7 +53,7 @@ Die Techniker hat bei uns (hier gibt es regionale Unterschiede) üblicherweise d
 
 <figure>
 
-![](images/image-2.png)
+![](/images/image-2.png)
 
 <figcaption>
 

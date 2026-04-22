@@ -7,7 +7,7 @@ categories:
 tags: 
   - "herstellerabschlag"
   - "inkasso"
-coverImage: "1EE2B407-91B5-49A3-950C-F07CCCC50AE3.jpeg"
+coverImage: "/images/blog/1EE2B407-91B5-49A3-950C-F07CCCC50AE3.jpeg"
 ---
 
 In einem Beitrag über die [Arzneimittelpreise bei verschreibungspflichtigen Arzneimitteln](https://apotheker-luft.de/preisberechnung-fuer-verschreibungspflichtige-arzneimittel/) in Deutschland bin ich kurz auf den Herstellerabschlag eingegangen. Das Problem ist, dass dieser über die Apotheke abgewickelt wird und diese damit das volle Risiko eines Zahlungsausfalls trägt, falls der Hersteller Pleite geht.
