@@ -8,7 +8,7 @@ tags:
   - "liefervertraege"
   - "null-retaxation"
   - "retaxation"
-coverImage: "/images/blog/woman-3317471_1920.webp"
+coverImage: "/images/blog/10-frau-im-blazer.webp"
 ---
 
 Letzte Woche hat der Staatssekretär im Bundesgesundheitministerium, Dr. Edgar Franke, eine kleine Anfrage der CSU bezüglich der [Bürokratie im Apothekenwesen beantwortet](https://www.apotheke-adhoc.de/nachrichten/detail/politik/buerokratie-apotheken-sind-selbst-schuld/). Seiner Meinung nach sind wir Apothekerinnen und Apotheker selbst schuld, weil wir -bzw. unsere Verbände- ja die Lieferverträge der Krankenkassen unterschrieben hätten und gewusst haben worauf wir uns einlassen.

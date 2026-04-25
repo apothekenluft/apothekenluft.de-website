@@ -8,7 +8,7 @@ tags:
   - "apotheke"
   - "apothekenalltag"
   - "rabattvertraege"
-coverImage: "/images/blog/723245BF-858A-4F59-8E98-3C2833D71259.jpeg"
+coverImage: "/images/blog/08-banknoten.webp"
 ---
 
 Wie schon in einigen [Beiträgen](https://apotheker-luft.de/preisberechnung-fuer-verschreibungspflichtige-arzneimittel/) angesprochen, möchte ich heute über die sogenannten "Rabattverträge", die von den Krankenkassen mit verschiedenenen Herstellern von Arzneimitteln abgeschlossen werden können, schreiben.

@@ -3,7 +3,7 @@ title: "Das Vor-Ort-Apotheken wir weg"
 date: 2023-05-25
 categories: 
   - "apotheke"
-coverImage: "/images/blog/online-3964531_1280.webp"
+coverImage: "/images/blog/12-laptop-mit-kapseln.webp"
 ---
 
 Ohne Worte. Einfach nur super gemacht!

@@ -3,7 +3,7 @@ title: "400 Millionen Euro für Uralt-Hardware"
 date: 2022-10-16
 categories: 
   - "nicht-kategorisiert"
-coverImage: "/images/blog/58A60FB8-0BF9-4BDF-B8F7-3DB54EDDFB5E-scaled.jpeg"
+coverImage: "/images/blog/07-router.webp"
 ---
 
 Arztpraxen, Kliniken und inzwischen auch Apotheken sind seit geraumer Zeit miteinander vernetzt. Leider nicht wirklich, denn ein 1:1 Austausch passiert (noch?) in den seltensten Fällen. Aber zumindest technisch befinden sie sich in einem als Hochsicherheitsgefängnis bezeichneten gemeinsamen Netzwerk, das sich „Telematik-Infrastruktur“, kurz „TI“, nennt.

@@ -7,7 +7,7 @@ tags:
   - "apotheke"
   - "corona"
   - "gesundheitspolitik"
-coverImage: "/images/blog/teddy-mit-spritze.webp"
+coverImage: "/images/blog/09-teddy-mit-spritze.webp"
 ---
 
 Es kommt einem vor wie in einem Märchen: "damals", Ende 2021, mitten in der Pandemie, wurden die Apotheken in die Corona-Impfungen eingebunden. Das Impfen selbst hatten viele von uns ja schon in Modellprojekten zur Grippeschutzimpfung erlernt. Und einen großen Unterschied oder mehr Nebenwirkungen waren bei der Covid-Impfung nicht zu erwarten. In anderen Ländern ist "Impfen in der Apotheke" durchaus etabliert und vollkommen normal. Bei uns war die Impfung bisher immer dem Arzt bzw. seinen Mitarbeitenden vorbehalten.
