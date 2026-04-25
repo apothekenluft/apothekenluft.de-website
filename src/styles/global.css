@@ -1,14 +1,58 @@
 @import "tailwindcss";
 
-/*
-@tailwind base;
-@layer base {
-    h1 {
-        @apply text-6xl lg:text-6xl font-extrabold mb-4 leading-tight
-    }
-
-    h2 {
-        @apply text-4xl font-bold text-gray-800 text-center mb-12"
-    }
+.blog-content {
+  @apply text-base leading-7 text-gray-800;
 }
-*/
+
+.blog-content h2 {
+  @apply mt-10 mb-4 text-3xl font-bold text-gray-900;
+}
+
+.blog-content h3 {
+  @apply mt-8 mb-3 text-2xl font-semibold text-gray-900;
+}
+
+.blog-content p {
+  @apply mb-5;
+}
+
+.blog-content ul {
+  @apply mb-5 list-disc pl-6;
+}
+
+.blog-content ol {
+  @apply mb-5 list-decimal pl-6;
+}
+
+.blog-content li {
+  @apply mb-2;
+}
+
+.blog-content a {
+  @apply text-sky-700 underline underline-offset-2;
+}
+
+.blog-content img {
+  @apply my-8 rounded-xl;
+}
+
+.blog-content figure {
+  @apply my-8;
+}
+
+.blog-content figcaption {
+  @apply mt-3 text-sm text-gray-500;
+}
+
+.blog-content table {
+  @apply my-6 w-full border-collapse text-sm;
+}
+
+.blog-content th,
+.blog-content td {
+  @apply border border-gray-300 px-3 py-2 text-left align-top;
+}
+
+.blog-content blockquote {
+  @apply my-6 border-l-4 border-sky-300 pl-4 italic text-gray-700;
+}
