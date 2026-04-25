@@ -7,7 +7,7 @@ categories:
 tags: 
   - "apothekenalltag"
   - "rabattvertraege"
-coverImage: "/images/blog/11-on-sale-teil-2.webp"
+coverImage: "/images/blog/10-on-sale-teil-2.webp"
 ---
 
 Auf meinen [ersten Beitrag](https://apotheker-luft.de/rabatte-rabatte-rabatte-aber-nur-mit-vertrag/) zum Thema "Rabattverträge" habe ich von vielen Kolleginnen und Kollegen Rückmeldungen bekommen dass ich nicht alles zum Thema geschrieben habe. Das stimmt, denn ich wollte zunächst erklären wie diese Verträge funktionieren. Weiter in die Tiefe zu gehen hätte den Artikel gesprengt. Deshalb folgt jetzt Teil 2, der die Höhe der Rabatte beschreibt. Den dritten Teil der Rabattvertrags-Serie habe ich schon im Kopf und muss ihn "nur noch" ordentlich ausformulieren.

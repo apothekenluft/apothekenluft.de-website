@@ -8,7 +8,7 @@ tags:
   - "arzneimittelpreise"
   - "herstellerabschlag"
   - "rabattvertraege"
-coverImage: "/images/blog/01-taschenrechner.webp"
+coverImage: "/images/blog/02-taschenrechner.webp"
 ---
 
 Die Preise für verschreibungspflichtige Arzneimittel in Deutschland werden staatlich festgelegt. Festgeschrieben ist das Ganze in der Arzneimittelpreisverordnung (AmPVO). Und im Prinzip berechnet sich der Preis eines Arzneimittels recht einfach:
@@ -55,7 +55,7 @@ Ich habe geschrieben, dass die Berechnung des Arzneimittelpreises "im Prinzip" e
 
 - Die **Hersteller** müssen den Krankenkassen einen Rabatt gewähren. Die [Höhe des Rabatts](https://www.deutschesapothekenportal.de/medien/dap-lexikon/herstellerrabatt/) ist abhängig von der Art des Arzneimittels (Originalprodukt, Generikum) und seinem Preis (über oder unter dem "Festbetrag"). Dieser wird aber nicht direkt vom Hersteller an die Krankenkasse bezahlt, sondern wird über die Apotheken abgewickelt. Diese bezahlen den Abschlag an die Krankenkasse und fordern ihn dann vom Hersteller zurück.
 
-- die **Apotheken** müssen pro Packung einen Rabatt von derzeit € 1,77 inklusive Mehrwertsteuer bezahlen. Der Abschlag ist gesetzlich festgelegt. Ab dem 01.02.2023 steigt dieser Rabatt auf insgesamt 2 Euro brutto. Diese Erhöhung soll zeitlich begrenzt sein und gilt als "Sonderopfer" der Apothekerschaft zur Entlastung der gesetzlichen Krankenkassen (siehe auch den Artikel "[Apotheken sollen aus Fairness sparen](https://apotheker-luft.de/apotheken-sollen-aus-fairness-sparen/)").
+- die **Apotheken** müssen pro Packung einen Rabatt von derzeit € 1,77 inklusive Mehrwertsteuer bezahlen. Der Abschlag ist gesetzlich festgelegt. Ab dem 01.02.2023 steigt dieser Rabatt auf insgesamt 2 Euro brutto. Diese Erhöhung soll zeitlich begrenzt sein und gilt als "Sonderopfer" der Apothekerschaft zur Entlastung der gesetzlichen Krankenkassen (siehe auch den Artikel "[Apotheken sollen aus Fairness sparen](https://apothekenluft.de/apotheken-sollen-aus-fairness-sparen/)").
 
 - außerdem gibt es seit April 2007 die sogenannten "[Rabattverträge](https://apotheker-luft.de/rabatte-rabatte-rabatte-aber-nur-mit-vertrag/)". Diese Verträge werden zwischen einer Krankenkasse und einem oder mehreren Herstellern geschlossen. Kasse und Hersteller vereinbaren einen Rabatt auf den Arzneimittelpreis. Wie hoch dieser Rabatt ist, bleibt ein Geheimnis zwischen den beiden Parteien. Die gelackmeierten sind zum Einen die Mitarbeiter in der Apotheke, zum Anderen die Patienten. Denn wir sind vertraglich gezwungen die Verträge, die uns überhaupt nichts bringen, umzusetzen. Hierüber schreibe ich bestimmt noch einen eigenen Artikel, denn diese Materie ist so komplex, dass auch die heilberuflichen Kollegen aus der Ärzteschaft manchmal den Durchblick verlieren.
 

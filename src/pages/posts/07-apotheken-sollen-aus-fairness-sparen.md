@@ -6,7 +6,7 @@ categories:
 tags: 
   - "apothekenabschlag"
   - "gesundheitspolitik"
-coverImage: "/images/blog/06-boxhandschuhe.webp"
+coverImage: "/images/blog/07-boxhandschuhe.webp"
 ---
 
 Paula Piechotta, eine Bundestagsabgeordnete der GRÜNEN, nimmt in der [Pharmazeutischen Zeitung](https://www.pharmazeutische-zeitung.de/eine-frage-der-fairness-137632/) Stellung zum Sparbeitrag, den die Apotheken ab Februar 2023 für die gesetzliche Krankenversicherungen leisten müssen. Dann erhöht sich der sogenannte „Kassenabschlag“ (siehe Artikel [Arzneimittelpreise](https://apotheker-luft.de/preisberechnung-fuer-verschreibungspflichtige-arzneimittel/)) von 1,77 auf 2,00 Euro.  

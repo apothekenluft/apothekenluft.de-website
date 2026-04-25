@@ -3,7 +3,7 @@ title: "Medikamentenknappheit in Deutschland"
 date: 2022-12-23
 categories: 
   - "gesundheitspolitik"
-coverImage: "/images/blog/03-pcm-eigenherstellung.webp"
+coverImage: "/images/blog/05-pcm-eigenherstellung.webp"
 ---
 
 In den letzten Monaten hat sich die Knappheit von Medikamenten dramatisch verschärft. Ist Anfang 2022 ein kompletter Wirkstoff gegen Brustkrebs ausgefallen, sind inzwischen nicht nur Fiebersäfte und -zäpfchen für Kinder knapp. Die Lieferschwierigkeiten gehen bei uns quer durchs Sortiment. Und jeden Tag kommen neue "defekte"[1](#defekt) Artikel dazu. Inzwischen sind in unserer verhältnismäßig kleinen Apotheke über 300 Medikamente, die wir üblicherweise bei uns lagern, nicht mehr zu bekommen. Leider wissen wir oft nicht wie lange so ein Ausfall dauert. Denn die Hersteller halten sich oft mit konkreten Lieferdaten zurück. Oder sie verschieben das Datum immer wieder.

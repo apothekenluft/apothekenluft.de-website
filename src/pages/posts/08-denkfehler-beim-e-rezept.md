@@ -9,14 +9,14 @@ tags:
   - "apothekenalltag"
   - "digitalisierung"
   - "e-rezept"
-coverImage: "/images/blog/05-muster-e-rezept.webp"
+coverImage: "/images/blog/08-denkfehler-e-rezept.webp"
 ---
 
 Heute hatten wir mal wieder ein E-Rezept. Das ist bei uns in der Apotheke im Moment noch ein Highlight, weil die Praxen bei uns im Umfeld nach wie vor auf Papier verordnen und das auch nicht ändern möchten. Und nach dem heutigen Fall kann ich gut verstehen, warum die Ärzte nach wie vor lieber auf Papier verordnen.
 
 Der Papierausdruck, den uns der Patient gegeben hat, sah wie folgt aus:
 
-![Ausdruck eines E-Rezeptes](/images/blog/05-eRezept.webp)
+![Ausdruck eines E-Rezeptes](/images/blog/08-muster-e-rezept.webp)
 
 Wie man sieht, handelt es sich um eine sogenannte "Freitextverordnung". Das heißt der Arzt hat keinen konkreten Artikel verordnet, sondern aufgeschrieben was er meint. Und dann hat er einen Denkfehler gemacht und das Rezept -wie man es eben beim Papierrezept macht- handschriftlich geändert und abgezeichnet: statt 1x Amoxicillin 250 mg wollte er, dass der Patient 1x 2000 mg von der Apotheke bekommt. Dummerweise sieht der E-Rezept-Prozess so ein Vorgehen nicht vor. Richtig wäre gewesen das E-Rezept vom gematik-Server wieder zu löschen und dann das neue E-Rezept mit dem Freitext "2000 mg" zu erstellen. Das hätte dann auch Stempel und Unterschrift gespart😁 Aber es ist natürlich wesentlich umständlicher als einfach den Verordnungstext durchzustreichen und die Änderung schnell abzuzeichnen.
 

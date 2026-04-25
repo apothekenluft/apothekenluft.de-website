@@ -7,14 +7,14 @@ tags:
   - "apotheke"
   - "corona"
   - "gesundheitspolitik"
-coverImage: "/images/blog/09-teddy-mit-spritze.webp"
+coverImage: "/images/blog/13-teddy-mit-spritze.webp"
 ---
 
 Es kommt einem vor wie in einem Märchen: "damals", Ende 2021, mitten in der Pandemie, wurden die Apotheken in die Corona-Impfungen eingebunden. Das Impfen selbst hatten viele von uns ja schon in Modellprojekten zur Grippeschutzimpfung erlernt. Und einen großen Unterschied oder mehr Nebenwirkungen waren bei der Covid-Impfung nicht zu erwarten. In anderen Ländern ist "Impfen in der Apotheke" durchaus etabliert und vollkommen normal. Bei uns war die Impfung bisher immer dem Arzt bzw. seinen Mitarbeitenden vorbehalten.
 
 Als das Thema durch die Medien ging erhielten wir zahlreiche Anfrage unserer Kunden, ob wir impfen und wann sie denn von uns geimpft werden können. Wie immer in Deutschland gingen noch zwei Monate ins Land bis es soweit war und Ende Februar 2022 konnten wir mit den Impfungen starten. Die Termine, die wir angeboten haben, lagen meist außerhalb der Sprechstunden-Zeiten der hiesigen Praxis, eben weil wir "unsere" Impfungen nicht als Konkurrenz zur Ärzteschaft, sondern als Ergänzungsangebot sehen. Wie gesagt war die Nachfrage hoch und wir haben bis heute ein paar hundert Menschen ohne Komplikationen geimpft. Sowohl gegen Corona als auch -wie es inzwischen möglich ist- gegen Grippe.
 
-Vorgestern sind zahlreiche Corona-Sonderregulungen ausgelaufen ([ich habe ja schon darüber geschrieben](https://apotheker-luft.de/das-apotheken-albtraum-verwaltungsgesetz-kommt/)) und auch die Regelung zur Covid-Impfung in Apotheken gilt nicht mehr. Hier gibt es gleich zwei Baustellen: zum einen die Vergütung. Wie so oft streiten sich die Leistungserbringer (also auch die Ärzte) gerade mit den Krankenkassen was eine Covid-Impfung kosten darf. Derzeit gibt es noch keine einheitliche Lösung und angeblich wird geraten den Patienten selbst zahlen zu lassen. Zum Anderen die Regelung, dass Apotheken überhaupt gegen Corona impfen dürfen. In einem unserer Fachmedien heißt es dazu:
+Vorgestern sind zahlreiche Corona-Sonderregulungen ausgelaufen ([ich habe ja schon darüber geschrieben](https://apothekenluft.de/12-das-apotheken-albtraum-verwaltungsgesetz-kommt/)) und auch die Regelung zur Covid-Impfung in Apotheken gilt nicht mehr. Hier gibt es gleich zwei Baustellen: zum einen die Vergütung. Wie so oft streiten sich die Leistungserbringer (also auch die Ärzte) gerade mit den Krankenkassen was eine Covid-Impfung kosten darf. Derzeit gibt es noch keine einheitliche Lösung und angeblich wird geraten den Patienten selbst zahlen zu lassen. Zum Anderen die Regelung, dass Apotheken überhaupt gegen Corona impfen dürfen. In einem unserer Fachmedien heißt es dazu:
 
 > Am 8. April tritt die Schutzimpfungsrichtlinie des Gemeinsamen Bundesausschusses (G-BA) in Kraft, die dann maßgeblich für die von den Krankenkassen zu übernehmenden Impfleistungen hinsichtlich Covid-19 ist. Damit verkleinert sich der Kreis der anspruchsberechtigten Impfwilligen deutlich. Ausschlaggebend für eine solche Berechtigung sind demnach dann etwa das Alter, mögliche Vorerkrankungen oder eine berufliche Indikation
 > 
