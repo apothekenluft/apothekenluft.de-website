@@ -6,7 +6,7 @@ categories:
 tags: 
   - ""
   - ""
-coverImage: ""
+coverImage: "/images/blog/31-apotheke-geschlossen.png"
 ---
 Lieber [Ralph Bollmann](https://www.linkedin.com/in/ralph-bollmann-5406785a/), Ihren Kommentar in der FAZ am Sonntag bezüglich meiner Zunft möchte ich nicht ohne Gegenrede stehen lassen.
 
