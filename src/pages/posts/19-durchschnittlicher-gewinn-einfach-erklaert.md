@@ -13,7 +13,7 @@ Eines aber möchte ich gleich tun, weil unser derzeitiger Gesundheitsminister di
 
 ![](/images/blog/17-facebook-beitrag.png)
 
-So ähnlich sieht die Apothekenlandschaft heute aus. Es gibt einige wenige sehr große Apotheken mit einem sehr hohen Betriebsergebnis, das Groß hat aber ein deutlich niedrigeres Ergebnis. Und ich möchte nochmal betonen, dass das [Betriebsergebnis nicht das Einkommen eines Apothekenleiters](https://apotheker-luft.de/apothekenprotest-warum-denen-geht-es-doch-gut/)[1](#7b884738-8656-4fd8-af90-0c1084a20a27) ist. Von diesem Ergebnis müssen die zukünftigen Investitionen für die Apotheke gestemmt werden und natürlich gehen davon noch Einkommensteuer und soziale Abgaben ab.
+So ähnlich sieht die Apothekenlandschaft heute aus. Es gibt einige wenige sehr große Apotheken mit einem sehr hohen Betriebsergebnis, das Groß hat aber ein deutlich niedrigeres Ergebnis. Und ich möchte nochmal betonen, dass das [Betriebsergebnis nicht das Einkommen eines Apothekenleiters](/posts/17-apothekenprotest-warum-denen-geht-es-doch-gut/)[1](#7b884738-8656-4fd8-af90-0c1084a20a27) ist. Von diesem Ergebnis müssen die zukünftigen Investitionen für die Apotheke gestemmt werden und natürlich gehen davon noch Einkommensteuer und soziale Abgaben ab.
 
 Ich habe die Zahl mal in einen simplen [Einkommensteuer-Rechner](https://www.selbststaendig.de/einkommensteuerrechner) eingegeben. Hier das Ergebnis:
 
