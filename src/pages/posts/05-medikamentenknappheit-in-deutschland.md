@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Medikamentenknappheit in Deutschland"
 date: 2022-12-23
 categories: 

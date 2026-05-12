@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Apotheken sollen aus Fairness sparen"
 date: 2023-01-07
 categories: 

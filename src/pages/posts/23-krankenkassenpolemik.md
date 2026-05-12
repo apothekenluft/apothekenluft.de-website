@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Krankenkassenpolemik"
 date: 2023-12-31
 categories: 

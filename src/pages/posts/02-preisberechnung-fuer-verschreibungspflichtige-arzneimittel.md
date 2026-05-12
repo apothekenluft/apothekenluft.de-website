@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Preisberechnung für verschreibungspflichtige Arzneimittel"
 date: 2022-10-06
 categories: 

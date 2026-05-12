@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Schämen Sie sich, Herr Prof. Dr. Karl Lauterbach!"
 date: 2023-09-18
 categories: 

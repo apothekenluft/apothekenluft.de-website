@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Rabatte, Rabatte, Rabatte - aber nur mit Vertrag"
 date: 2023-01-21
 categories: 

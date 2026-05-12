@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Lauterbachs Honorarerhöhung ist eine versteckte Kürzung"
 date: 2023-12-21
 categories: 

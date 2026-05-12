@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Niemand braucht Apotheken"
 date: 2025-10-27
 categories: 

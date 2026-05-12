@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Petition zum Inkassorisiko beim Herstellerabschlag"
 date: 2023-01-05
 categories: 

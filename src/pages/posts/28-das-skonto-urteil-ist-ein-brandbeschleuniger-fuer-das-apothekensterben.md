@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Das Skonto-Urteil ist ein Brandbeschleuniger für das Apothekensterben"
 date: 2024-05-28
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Notdienst an Ostern"
 date: 2023-04-13
 categories: 

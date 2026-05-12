@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Das Vor-Ort-Apotheken wir weg"
 date: 2023-05-25
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Warum mein Team und ich nächste Woche nicht \"rot\" sehen"
 date: 2024-04-19
 categories: 

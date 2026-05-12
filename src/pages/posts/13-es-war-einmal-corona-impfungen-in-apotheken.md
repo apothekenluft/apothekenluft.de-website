@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Es war einmal... Corona-Impfungen in Apotheken"
 date: 2023-04-09
 categories: 

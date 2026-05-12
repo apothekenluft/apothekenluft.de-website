@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Das Apotheken-Albtraum-Verwaltungsgesetz kommt"
 date: 2023-03-13
 categories: 

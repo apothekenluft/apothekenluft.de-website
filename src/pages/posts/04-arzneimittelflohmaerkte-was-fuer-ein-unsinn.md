@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Arzneimittelflohmärkte - was für ein Unsinn"
 date: 2022-12-19
 categories: 

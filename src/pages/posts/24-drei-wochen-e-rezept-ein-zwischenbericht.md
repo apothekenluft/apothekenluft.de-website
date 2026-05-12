@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Drei Wochen E-Rezept: ein Zwischenbericht"
 date: 2024-01-19
 categories: 

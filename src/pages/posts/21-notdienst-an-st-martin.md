@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Notdienst an St. Martin"
 date: 2023-11-12
 categories: 

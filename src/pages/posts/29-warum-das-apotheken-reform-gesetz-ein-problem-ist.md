@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Warum das Apotheken-Reformgesetz ein Problem ist"
 date: 2024-08-22
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Apothekenprotest? Warum? Denen geht es doch gut!"
 date: 2023-06-07
 categories: 

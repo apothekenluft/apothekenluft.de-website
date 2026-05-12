@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Sonntagsdienst"
 date: 2023-10-16
 categories: 

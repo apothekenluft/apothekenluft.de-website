@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Selbst schuld? Das sehe ich anders!"
 date: 2023-01-30
 categories: 

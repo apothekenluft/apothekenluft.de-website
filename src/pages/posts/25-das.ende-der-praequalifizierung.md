@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Das Ende der Präqualifizierung - aber nicht ohne Kosten"
 date: 2024-02-27
 categories: 

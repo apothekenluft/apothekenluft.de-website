@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Freitags-Notdienst"
 date: 2023-06-02
 categories: 

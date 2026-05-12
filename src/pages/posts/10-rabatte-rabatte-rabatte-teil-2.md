@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Rabatte, Rabatte, Rabatte - Teil 2"
 date: 2023-01-27
 categories: 

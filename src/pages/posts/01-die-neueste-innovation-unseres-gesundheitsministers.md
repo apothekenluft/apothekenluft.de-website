@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Die neueste Innovation unseres Gesundheitsministers"
 date: 2022-09-06
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "CardLink: welches Signal das BMG an uns Apotheken sendet"
 date: 2024-03-15
 categories: 

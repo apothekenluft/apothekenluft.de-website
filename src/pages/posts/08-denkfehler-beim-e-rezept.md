@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Denkfehler beim E-Rezept"
 date: 2023-01-12
 categories: 

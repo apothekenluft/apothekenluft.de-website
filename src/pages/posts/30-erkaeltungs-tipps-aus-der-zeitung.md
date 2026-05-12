@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Erkältungs-Tipps aus der Zeitung"
 date: 2024-12-09
 categories: 

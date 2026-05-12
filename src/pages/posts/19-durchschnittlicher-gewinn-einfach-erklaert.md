@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "Durchschnittlicher Gewinn - einfach erklärt"
 date: 2023-10-08
 categories: 

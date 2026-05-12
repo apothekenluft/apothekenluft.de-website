@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BlogPost.astro
 title: "400 Millionen Euro für Uralt-Hardware"
 date: 2022-10-16
 categories: 
