@@ -13,7 +13,7 @@ Gestern hat unser Gesundheitsminister Prof. Dr. Karl Lauterbach seine Pläne zur
 
 Einer der Punkte, die Lauterbach angehen möchte, ist das Apothekenhonorar, das seit fast 20 Jahren so gut wie unverändert blieb. Dieses Honorar liegt seit 2004 bei 8,10 Euro, im Jahr 2013 gab es eine Anpassung auf 8,35 Euro. Das ist eine Steigerung um 3% in 20 Jahren. Zum Vergleich: die Inflationsrate ist in den 20 Jahren um ca. 30% gestiegen (Quelle: [finanz-tools.de](https://www.finanz-tools.de/inflation/inflationsraten-deutschland)). Hätte man unser Honorar jedes Jahr an die Inflation angepasst, läge es 2023 bei 11,65 Euro. Tatsächlich erhalten wir nach wie vor die 8,35 Euro wie vor 10 Jahren.
 
-Lauterbach schlägt nun vor das Honorar in zwei Schritten á 19 um insgesamt 38 Cent(!) zu erhöhen. Das alleine zeigt schon wie lächerlich diese Anpassung ist. Aber: er geht noch weiter und möchte die 3% Aufschlag, die wir auf unseren Einkaufspreis erhalten, auf 2% absenken. Damit sollen die Krankenkassen insbesondere bei teuren Arzneimitteln entlastet werden. Wer sich nochmal anschauen möchte wie die Preisberechnung bei verschreibungspflichtigen Arzneimitteln aussieht, kann das [hier](https://apotheker-luft.de/preisberechnung-fuer-verschreibungspflichtige-arzneimittel/) nachlesen.
+Lauterbach schlägt nun vor das Honorar in zwei Schritten á 19 um insgesamt 38 Cent(!) zu erhöhen. Das alleine zeigt schon wie lächerlich diese Anpassung ist. Aber: er geht noch weiter und möchte die 3% Aufschlag, die wir auf unseren Einkaufspreis erhalten, auf 2% absenken. Damit sollen die Krankenkassen insbesondere bei teuren Arzneimitteln entlastet werden. Wer sich nochmal anschauen möchte wie die Preisberechnung bei verschreibungspflichtigen Arzneimitteln aussieht, kann das [hier](02-preisberechnung-fuer-verschreibungspflichtige-arzneimittel/) nachlesen.
 
 Das Handelsblatt schreibt:
 
@@ -21,7 +21,7 @@ Das Handelsblatt schreibt:
 > 
 > [Handelsblatt](https://www.handelsblatt.com/politik/deutschland/reformvorhaben-lauterbach-plant-apotheken-ohne-apotheker/100003964.html) vom 20.12.2023
 
-Wenn man sich [meine Berechnungen](https://apotheker-luft.de/preisberechnung-fuer-verschreibungspflichtige-arzneimittel/) anschaut, darf man sicher die Frage stellen, was das Handelsblatt als "lukrativ" ansieht. Denn bei einem Apotheken-Einkaufspreis von 1.000 Euro liegt das Apothekenhonorar bei 39,32 Euro. Der Staat erhält bei diesem Einkaufspreis über die Umsatzsteuer gute 200 Euro. Wer profitiert also mehr?
+Wenn man sich [meine Berechnungen](02-preisberechnung-fuer-verschreibungspflichtige-arzneimittel/) anschaut, darf man sicher die Frage stellen, was das Handelsblatt als "lukrativ" ansieht. Denn bei einem Apotheken-Einkaufspreis von 1.000 Euro liegt das Apothekenhonorar bei 39,32 Euro. Der Staat erhält bei diesem Einkaufspreis über die Umsatzsteuer gute 200 Euro. Wer profitiert also mehr?
 
 Nun gut, zurück zu den Honorar-Ideen von Lauterbach. Rechnen wir doch mal wie das neue und angeblich höhere Honorar in Wirklichkeit aussieht. Im ersten Schritt wird das Honorar um 19 Cent erhöht, d.h. es beträgt 8,54 Euro:
 

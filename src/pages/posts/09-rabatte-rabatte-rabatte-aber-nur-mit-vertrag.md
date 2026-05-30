@@ -12,7 +12,7 @@ tags:
 coverImage: "/images/blog/09-banknoten.webp"
 ---
 
-Wie schon in einigen [Beiträgen](https://apotheker-luft.de/preisberechnung-fuer-verschreibungspflichtige-arzneimittel/) angesprochen, möchte ich heute über die sogenannten "Rabattverträge", die von den Krankenkassen mit verschiedenenen Herstellern von Arzneimitteln abgeschlossen werden können, schreiben.
+Wie schon in einigen [Beiträgen](02-preisberechnung-fuer-verschreibungspflichtige-arzneimittel/) angesprochen, möchte ich heute über die sogenannten "Rabattverträge", die von den Krankenkassen mit verschiedenenen Herstellern von Arzneimitteln abgeschlossen werden können, schreiben.
 
 Es waren einmal die gesetzlichen Krankenversicherungen, die Geld sparen wollte. Also machten sich die Herolde der Krankenkassen 2007 auf zur damaligen Gesundheitskönigin [Ulla Schmidt](https://de.wikipedia.org/wiki/Ulla_Schmidt_\(Politikerin,_1949\)) und forderten die Möglichkeit Verträge mit den Herstellern von Arzneimitteln zu schließen. Die Königin war den Vertretern der Krankenkassen wohlgesonnen. Und so schuf Sie das "GKV-Wettbewerbsstärkungsgesetz" und ermöglichte den Fürsten der Krankenkassen Verträge mit Arzneimittelherstellern abzuschließen um Kosten zu sparen und die Beiträge für die Bürger senken zu können.
 
@@ -26,7 +26,7 @@ Nehmen wir an, der Arzt stellt ein Rezept über das Antibiotikum Penicillin mit 
 
 <figure>
 
-![](/images/image-1024x512.png)
+![](/images/blog/09-ik-nummer.webp)
 
 <figcaption>
 
@@ -40,7 +40,7 @@ Dazu muss man wissen, dass jeder Teilnehmer im Gesundheitssystem ein "Institutio
 
 <figure>
 
-![](/images/image-1-1024x725.png)
+![](/images/blog/09-muster16.webp)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ Die Techniker hat bei uns (hier gibt es regionale Unterschiede) üblicherweise d
 
 <figure>
 
-![](/images/image-2.png)
+![](/images/blog/09-rabattvertrag.webp)
 
 <figcaption>
 
@@ -70,4 +70,4 @@ Das ist der Grund, warum ihr von uns manchmal ein anderes Arzneimittel bekommt a
 
 Und bei allem Unmut, den die Verträge immer wieder hervorrufen, sparen sie den gesetzlichen Krankenkassen jedes Jahr 4,5 Milliarden Euro. Und das trägt -wie 2007 geplant- tatsächlich dazu bei, dass die Beiträge zur gesetzlichen Krankenversicherung nicht noch mehr steigen.
 
-Zum Abschluss noch eine Bitte: manchmal kommt es vor, dass ihr eure Tablette teilen sollt. Bitte sagt uns das, wenn ihr bei uns seid. Denn es gibt Fälle bei denen die Tablette, die die Krankenkasse gerne hätte, nicht passt. Ein kleines Beispiel: beim Wirkstoff Allopurinol (ein Medikament gegen Gicht) gibt es die Stärken 100 und 300 Milligramm. Und bei den 300 Milligram gibt es Hersteller, die eine drittelbare Tablette produzieren. Wenn ihr nun die Tablette halbieren sollte, würde das nicht klappen. Gebt uns in solchen Fällen bitte Bescheid, dass ihr nur eine halbe Tablette einnehmen sollt. Dann können wir das richtige Medikament für euch auswählen.
+**Zum Abschluss noch eine Bitte:** manchmal kommt es vor, dass ihr eure **Tablette teilen** sollt. **Bitte sagt uns das**, wenn ihr bei uns seid. Denn es gibt Fälle bei denen die Tablette, die die Krankenkasse gerne hätte, nicht passt. Ein kleines Beispiel: beim Wirkstoff *Allopurinol* (ein Medikament gegen Gicht) gibt es die Stärken 100 und 300 Milligramm. Und bei den 300 Milligram gibt es Hersteller, die eine drittelbare Tablette produzieren. Wenn ihr nun die Tablette halbieren sollte, würde das nicht klappen. Gebt uns in solchen Fällen bitte Bescheid, dass ihr nur eine halbe Tablette einnehmen sollt. Dann können wir das richtige Medikament für euch auswählen.

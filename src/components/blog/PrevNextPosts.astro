@@ -1,0 +1,65 @@
+---
+interface Frontmatter {
+  title?: string;
+  coverImage?: string;
+}
+
+interface Post {
+  url?: string;
+  teaser?: string;
+  formattedDate?: string;
+  frontmatter?: Frontmatter;
+}
+
+interface Props {
+  previousPost?: Post;
+  nextPost?: Post;
+}
+
+const { previousPost, nextPost } = Astro.props;
+const items = [
+  previousPost ? { label: 'Vorheriger Beitrag', post: previousPost } : null,
+  nextPost ? { label: 'Nächster Beitrag', post: nextPost } : null,
+].filter(Boolean);
+---
+
+{items.length ? (
+  <nav class="mt-12 border-t border-gray-200 pt-8" aria-label="Beitragsnavigation">
+    <div class="grid gap-6 md:grid-cols-2">
+      {items.map(({ label, post }) => (
+        <a
+          href={post.url}
+          class="group flex h-full overflow-hidden rounded-2xl border border-gray-200 bg-white shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-lg"
+        >
+          <div class="h-32 w-32 shrink-0 overflow-hidden bg-gray-100 sm:h-40 sm:w-40">
+            {post.frontmatter?.coverImage ? (
+              <img
+                src={post.frontmatter.coverImage}
+                alt={post.frontmatter?.title}
+                class="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]"
+                loading="lazy"
+                decoding="async"
+              />
+            ) : (
+              <div class="h-full w-full bg-gray-100" aria-hidden="true"></div>
+            )}
+          </div>
+
+          <div class="flex min-w-0 flex-1 flex-col p-4 sm:p-5">
+            <p class="text-xs font-semibold uppercase tracking-[0.16em] text-sky-700">
+              {label}
+            </p>
+            <p class="mt-2 text-sm font-bold leading-5 text-gray-900">
+            {post.frontmatter?.title}
+            </p>
+            {post.teaser ? (
+              <p class="mt-3 text-sm leading-6 text-gray-700">
+                {post.teaser}
+              </p>
+            ) : null}
+          </div>
+        </a>
+      ))}
+    </div>
+  </nav>
+) : null}

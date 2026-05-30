@@ -26,7 +26,7 @@ Wie schon an Ostern, auch heute mal wieder eine Chronik was im Notdienst so pass
 | 22:25 | Junger Mann möchte eine After-Sun-Lotion und etwas gegen stärkeren Sonnenbrand. |
 | 22:27 | Mutter, die für ihr 10-jähriges Kind Fieber- und Hustensaft braucht. |
 | 23:35 | Mann, der mir ein Bild mit Halsschmerztabletten hinhält, die er gerne hätte. Außerdem noch was mit Minze zum Lutschen. Bekomme ich hin. |
-| 00:22 | Ich lege mich hin und hoffe, dass es ruhig bleibt. Aber wie ich schon im Beitrag über den [Oster-Notdienst](https://apothekenluft.de/14-notdienst-an-ostern/) geschrieben habe, schlafe ich in der Apotheke nie gut, sondern habe immer ein waches Ohr in Richtung Klingel. |
+| 00:22 | Ich lege mich hin und hoffe, dass es ruhig bleibt. Aber wie ich schon im Beitrag über den [Oster-Notdienst](14-notdienst-an-ostern/) geschrieben habe, schlafe ich in der Apotheke nie gut, sondern habe immer ein waches Ohr in Richtung Klingel. |
 
 To be continued...
 

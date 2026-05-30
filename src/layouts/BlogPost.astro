@@ -11,7 +11,8 @@ interface Props {
   };
 }
 
-const { frontmatter } = Astro.props;
+//const { frontmatter } = Astro.props;
+const { frontmatter, url } = Astro.props;
 const {
   title = 'Blogbeitrag',
   date,
@@ -28,6 +29,11 @@ const formattedDate = date
       year: 'numeric',
     })
   : null;
+
+import PrevNextPosts from '../components/blog/PrevNextPosts.astro';
+import { getPrevNextPosts } from '../data/blog-navigation';
+
+const { previousPost, nextPost } = getPrevNextPosts(url);
 ---
 <BlogLayout title={title}>
   <article class="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
@@ -59,6 +65,7 @@ const formattedDate = date
 
     <div class="blog-content max-w-none">
       <slot />
+      <PrevNextPosts previousPost={previousPost} nextPost={nextPost} />
     </div>
   </article>
 </BlogLayout>

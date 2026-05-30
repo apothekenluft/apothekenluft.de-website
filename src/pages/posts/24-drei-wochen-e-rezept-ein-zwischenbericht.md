@@ -11,7 +11,7 @@ tags:
 coverImage: "/images/blog/24-e-rezept-infoscreen.webp"
 ---
 
-Seit dem 1. Januar 2024 ist das [E-Rezept](https://postapotheke.blog/das-e-rezept-ist-da-2/) flächendeckend in Deutschland angekommen. Und der Druck auf die Ärzte, ab diesem Stichtag nur noch E-Rezepte auszustellen, hat Wirkung gezeigt. Allein bei uns in der Apotheke stieg der Anteil an E-Rezepten von "nicht spürbar" auf knapp 50%. Und immerhin gibt es keine großen, dafür aber viele kleine Probleme. Deshalb habe ich Kollegen aus der Region, aber auch bundesweit, gebeten an einer kleinen Umfrage zum Theme "E-Rezept" teilzunehmen. Die Ergebnisse dieser Umfrage präsentiere ich hier:
+Seit dem 1. Januar 2024 ist das E-Rezept flächendeckend in Deutschland angekommen. Und der Druck auf die Ärzte, ab diesem Stichtag nur noch E-Rezepte auszustellen, hat Wirkung gezeigt. Allein bei uns in der Apotheke stieg der Anteil an E-Rezepten von "nicht spürbar" auf knapp 50%. Und immerhin gibt es keine großen, dafür aber viele kleine Probleme. Deshalb habe ich Kollegen aus der Region, aber auch bundesweit, gebeten an einer kleinen Umfrage zum Theme "E-Rezept" teilzunehmen. Die Ergebnisse dieser Umfrage präsentiere ich hier:
 
 Insgesamt haben 163 Kolleginnen und Kollegen an der Umfrage teilgenommen. Das ist aber sicherlich nicht repräsentativ. Denn 57 Teilnehmer:innen kamen aus der Metropolregion Rhein-Neckar, der Rest aus einer digital affinen [Gruppe auf Facebook](https://www.facebook.com/groups/diedigitaleapotheke). Trotzdem zeigt sich ein genereller Trend und die beiden Gruppen haben sehr ähnlich geantwortet.
 

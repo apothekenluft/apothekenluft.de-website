@@ -38,4 +38,6 @@ Quelle: [krankenkassen.de](https://www.krankenkassen.de/krankenkassen-vergleich/
 
 </figure>
 
-Es scheint also durchaus Geld im System da zu sein. Nur eben nicht auf der Seite der Menschen, die die Leistungen erbringen, sondern nur bei den Verwaltungsapparaten. Dazu noch eine Zahl: die Verwaltungskosten der gesetzlichen Krankenkassen betrugen 2022 5,4%. Die Kosten, die wir Apotheken verursachen (und da sind auch die Einkommen der Apothekenleiter:innen enthalten) betrugen gerade mal 2,5%.
+Es scheint also durchaus Geld im System da zu sein. Nur eben nicht auf der Seite der Menschen, die die Leistungen erbringen, sondern eher bei den Verwaltungsapparaten. Dazu noch eine Zahl: die Verwaltungskosten der gesetzlichen Krankenkassen betrugen 2022 5,4%. Die Kosten, die wir Apotheken verursachen (und da sind auch die Einkommen der Apothekenleiter:innen enthalten) betrugen gerade mal 2,5%.
+
+*Update (Mai 2026):* inzwischen belasten alle Apotheken in Deutschland die Krankenkassen nur noch mit 1,8% der Gesamtkosten (Stand 2025). Wie gesagt sind darin die Einkommen der Apothekenleiter:innen bereits eingerechnet. Fairerweise muss ich aber auch sagen, dass die Verwaltungskosten "nur noch" bei 3,9% lagen. Die Quelle dafür ist wie immer die Publikation ["Die Apotheke: Zahlen - Daten - Fakten"](https://www.abda.de/aktuelles-und-presse/publikationen/detail/die-apotheke-zahlen-daten-fakten-2025/) unserer Bundesvereinigung.

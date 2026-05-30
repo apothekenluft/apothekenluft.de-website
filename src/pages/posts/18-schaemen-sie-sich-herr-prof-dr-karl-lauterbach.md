@@ -20,7 +20,7 @@ Auf die [Sachkritik des Vorsitzenden des Apothekerverbandes Nordrhein](https://w
 > 
 > Prof. Dr. Karl Lauterbach am 14.09.2023 im ARD Morgenmagazin
 
-Diese Vermischung von [Honorardiskussion](https://apothekenluft.de/blog/17-apothekenprotest-warum-denen-geht-es-doch-gut/) und [Medikamentenknappheit](https://apothekeluft.de/blog/05-arzneimittelknappheit-in-deutschland/) ist ein Schlag ins Gesicht der deutschen Apotheken und deren Mitarbeiterinnen. Es ist eine Grenzübertretung. Populismus pur. Und nicht nur ich, auch meine Mitarbeiterinnen und zahlreiche Kollegen empfinden diese Aussage als unberechtigte Ohrfeige.
+Diese Vermischung von [Honorardiskussion](17-apothekenprotest-warum-denen-geht-es-doch-gut/) und [Medikamentenknappheit](05-medikamentenknappheit-in-deutschland/) ist ein Schlag ins Gesicht der deutschen Apotheken und deren Mitarbeiterinnen. Es ist eine Grenzübertretung. Populismus pur. Und nicht nur ich, auch meine Mitarbeiterinnen und zahlreiche Kollegen empfinden diese Aussage als unberechtigte Ohrfeige.
 
 Nach diesem Statement setzte Herr Prof. Dr. Lauterbach noch einen drauf und schürte die Neiddebatte. Ich zitiere erneut:
 

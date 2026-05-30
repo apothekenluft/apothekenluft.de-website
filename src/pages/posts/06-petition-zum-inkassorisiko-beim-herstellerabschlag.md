@@ -11,7 +11,7 @@ tags:
 coverImage: "/images/blog/06-ortsschild-insolvenz.webp"
 ---
 
-In einem Beitrag über die [Arzneimittelpreise bei verschreibungspflichtigen Arzneimitteln](https://apotheker-luft.de/preisberechnung-fuer-verschreibungspflichtige-arzneimittel/) in Deutschland bin ich kurz auf den Herstellerabschlag eingegangen. Das Problem ist, dass dieser über die Apotheke abgewickelt wird und diese damit das volle Risiko eines Zahlungsausfalls trägt, falls der Hersteller Pleite geht.
+In einem Beitrag über die [Arzneimittelpreise bei verschreibungspflichtigen Arzneimitteln](02-preisberechnung-fuer-verschreibungspflichtige-arzneimittel/) in Deutschland bin ich kurz auf den Herstellerabschlag eingegangen. Das Problem ist, dass dieser über die Apotheke abgewickelt wird und diese damit das volle Risiko eines Zahlungsausfalls trägt, falls der Hersteller Pleite geht.
 
 Leider gab es in den letzten Jahren einige Fälle in denen Hersteller zahlungsunfähig wurden. Und durch das Konstrukt des Abschlags, der von den Apotheken bezahlt und im Nachgang vom Hersteller eingetrieben werden muss, blieben zahlreiche Kollegen auf dem Abschlag sitzen. Natürlich, Arbeit haben wir im Normalfall nicht mit dem Abschlag. Aber das Risiko des Ausfalls ist da. Und es scheint in letzter Zeit eher zu steigen.
 
