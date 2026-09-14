@@ -1,5 +1,32 @@
 @import "tailwindcss";
 
+/* --- Markenfarben: machen text-primary-blue & Co. erst funktionsfähig --- */
+@theme {
+  --color-primary-blue: #114a86;
+  --color-secondary-gray: #eef1f4;
+}
+
+/* --- Links im Inhaltsbereich immer sichtbar --- */
+@layer base {
+  main a {
+    color: var(--color-primary-blue);
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+  }
+
+  main a:hover,
+  main a:focus-visible {
+    text-decoration-thickness: 2px;
+  }
+
+  /* Bild- und Kachel-Links bleiben ohne Unterstrich */
+  main a:has(img),
+  main a:has(article) {
+    text-decoration-line: none;
+  }
+}
+
 .blog-content {
   @apply text-base leading-7 text-gray-800;
 }
